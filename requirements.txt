@@ -5,3 +5,7 @@ chromadb
 langchain-groq
 langchain-huggingface
 langchain-community
+langchain-huggingface
+sentence-transformers
+langchain
+streamlit
