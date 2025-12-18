@@ -1,0 +1,8 @@
+[server]
+enableCORS = false
+enableXsrfProtection = false
+frameAncestors = ["https://www.shastikaglobalimpex.com", "http://localhost:8501"]
+
+[client]
+toolbarMode = "hidden"
+showErrorDetails = false
